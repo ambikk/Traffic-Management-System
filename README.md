@@ -93,4 +93,9 @@ Our project The Nextraf is not just a mere project that a group of students came
 
 2) Driver Behaviour Tracking : With the advent of Machine Learning we thought of why not use the same to track the behaviour of the driver and classify based on rash driving , drunken driving etc helping the authorities maintain a clear record of the drivers starting right from their DL number to their driving history and records.
 
+## Working
+!(https://github.com/ambikk/Traffic-Management-System/blob/main/Working.png)
+
+## Architectural Block Diagram
+!(https://github.com/ambikk/Traffic-Management-System/blob/main/ARCHITECTURAL%20BLOCK%20DIAGRAM.jpeg)
 
